@@ -2,9 +2,10 @@
 
 Welcome to my GitHub profile.
 
-🔗 **Portfolio**
-➡️ https://ichi-ryota0513.github.io/
+---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ichi-ryota0513)
+## 🚀 Featured Projects
 
-![Build](https://github.com/ichi-ryota0513/repo/actions/workflows/ci.yml/badge.svg)
+- [Portfolio](https://ichi-ryota0513.github.io/) - これまでの制作物や実績をまとめたポートフォリオサイト
+- [ITパスポート かこもんくん](https://ip-kakomonkun.com/) - ITパスポート試験対策に特化した過去問演習Webアプリ
+- Coming Soon - 新規プロダクトを開発中
