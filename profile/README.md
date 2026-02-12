@@ -2,8 +2,6 @@
 
 Welcome to my GitHub profile.
 
----
-
 ## 🚀 Featured Projects
 
 - [Portfolio](https://ichi-ryota0513.github.io/) - これまでの制作物や実績をまとめたポートフォリオサイト
